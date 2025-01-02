@@ -3,6 +3,8 @@ main {
     position: relative;
 }
 
+/*CSS Formulario - Inicio*/
+
 .products__container__form {
     height: 517px;
     padding: 40px;
@@ -70,3 +72,69 @@ section h1 {
 #clear {
     color: #03318C;
 }
+
+/*CSS Formulario - Fim*/
+
+/*CSS Lista de Produtos - Inicio*/
+
+.products__list {
+    width: auto;
+    height: 1115px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.products__list ul li {
+    width: 196px;
+    height: 258px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    background-color: #03318C;
+    border: 4px solid #000000;
+    border-radius: 10px;
+    box-shadow: -5px 6px 10px 3.3px rgba(0,0,0,0.75);
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.card__img {
+    width: 190px;
+    height: 220px;
+    border: 4px solid #000000;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.products__list ul li h3 {
+    font-family: "IBM Plex Mono", serif;
+    font-size: 0.9375rem;
+    font-weight: 200;
+    margin: 8px 0;
+    text-align: start;
+}
+
+.footer__card {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__card p {
+    font-family: "IBM Plex Mono", serif;
+    font-size: 1rem;
+}
+
+.footer__card img {
+    width: 24px;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+/*CSS Lista de Produtos - Fim*/
