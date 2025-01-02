@@ -2,3 +2,71 @@ main {
     box-sizing: border-box;
     position: relative;
 }
+
+.products__container__form {
+    height: 517px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section h1 {
+    font-family: "Press Start 2P", serif;
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.products-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.products-form input {
+    width: 350px;
+    height: 58px;
+    border: 2px solid #03318C;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.products-form input::placeholder {
+    padding: 10px;
+    color: #03318C;
+    font-family: "IBM Plex Mono", serif;
+    font-size: 1rem;
+}
+
+.products__form-button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.products__form-button button {
+    all: unset;
+    min-width: 150px;
+    height: 55px;
+    border: 5px solid #03318C;
+    border-radius: 15px;
+    font-family: "IBM Plex Mono", serif;
+    font-size: 1.25rem;
+    margin: 0 auto;
+    text-align: center;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+#save {
+    background-color: #03318C;
+    color: #FFFFFF;
+}
+
+#clear {
+    color: #03318C;
+}
