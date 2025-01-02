@@ -1,0 +1,32 @@
+footer {
+    width: 100%;
+    height: 232px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #5300C8;
+    box-shadow: 0 -10px 20px #E5E5E5;
+    position: absolute;
+    bottom: 0;
+}
+
+footer .container__footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .container__footer h1{
+    width: 236px;
+    color: #E5E5E5;
+    font-family: "Press Start 2P", serif;
+    font-size: 1.5rem;
+}
+
+footer p {
+    color: #FFFFFF;
+    font-family: "IBM Plex Mono", serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+}

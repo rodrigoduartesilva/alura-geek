@@ -1,0 +1,21 @@
+header {
+    width: auto;
+    height: 96px;
+    display: flex;
+    align-items: center;
+    border-bottom: 5px solid #D6D6D6;
+    justify-content: center;
+    background-color: #5300C8;
+}
+
+header img {
+    width: 138px;
+    height: 56px;
+}
+
+header h1 {
+    width: 236px;
+    color: #E5E5E5;
+    font-family: "Press Start 2P", serif;
+    font-size: 1.5rem;
+}
