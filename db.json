@@ -1,0 +1,88 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "imagem": "https://play-lh.googleusercontent.com/zS5PLmUQ-52nkQZdrDDmue4eMrso8x9GiV3kCTbyx5Ol4olXASU7PoWBAuNGBSeQNxY",
+            "titulo": "Sonic",
+            "preco": 60
+        },
+        {
+            "id": 2,
+            "imagem": "https://sonicsuperstars.com/img/characters/sonic.png",
+            "titulo": "Sonic",
+            "preco": 50.5
+        },
+        {
+            "id": 3,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 4,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 5,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 6,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 7,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 8,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 9,
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5G54o71gxcEfsPjjL8SAhfXnOyfUiWbtRA&s",
+            "titulo": "Sonic Game",
+            "preco": 40
+        },
+        {
+            "id": 10,
+            "imagem": "https://play-lh.googleusercontent.com/zS5PLmUQ-52nkQZdrDDmue4eMrso8x9GiV3kCTbyx5Ol4olXASU7PoWBAuNGBSeQNxY",
+            "titulo": "Sonic",
+            "preco": 60
+        },
+        {
+            "id": 11,
+            "imagem": "https://play-lh.googleusercontent.com/zS5PLmUQ-52nkQZdrDDmue4eMrso8x9GiV3kCTbyx5Ol4olXASU7PoWBAuNGBSeQNxY",
+            "titulo": "Sonic",
+            "preco": 60
+        },
+        {
+            "id": 12,
+            "imagem": "https://play-lh.googleusercontent.com/zS5PLmUQ-52nkQZdrDDmue4eMrso8x9GiV3kCTbyx5Ol4olXASU7PoWBAuNGBSeQNxY",
+            "titulo": "Sonic",
+            "preco": 60
+        },
+        {
+            "id": 13,
+            "imagem": "https://play-lh.googleusercontent.com/zS5PLmUQ-52nkQZdrDDmue4eMrso8x9GiV3kCTbyx5Ol4olXASU7PoWBAuNGBSeQNxY",
+            "titulo": "Sonic",
+            "preco": 60
+        },
+        {
+            "id": 14,
+            "imagem": "https://play-lh.googleusercontent.com/zS5PLmUQ-52nkQZdrDDmue4eMrso8x9GiV3kCTbyx5Ol4olXASU7PoWBAuNGBSeQNxY",
+            "titulo": "Sonic",
+            "preco": 60
+        }
+    ]
+}
